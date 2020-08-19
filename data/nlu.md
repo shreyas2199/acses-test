@@ -1,0 +1,582 @@
+## intent:create_account
+
+- could i create a user account?
+- i dont have an online account, what do i have to do to open one?
+- ive got no user account, help me open one
+- tell me if I can create more than one user account with the same email address
+- i wanna know if i could have more than one user account
+- help me open a user account
+- I haven't got a profile, how can I create one?
+- can i register several fucking online accounts with a single email ?
+- tell me if I can have several accounts
+- I want to know if I can register more than one profile with a single email address
+- I haven't got an account, can you create one?
+- I have no online account, what do I have to do to register?
+- I have no user account and I want to open one
+- I don't have a user account, what can I do to create one?
+- i dont have an online account, i need help creating one
+- i want a user account, how can i create one?
+- i want to know if i can register more than one profile with the same email address
+- I have no user account, what can I do?
+- I want to create a profile, what can I do?
+- I don't have a user account, can you create one?
+- I've got no online account, what can I do to register?
+- ask alexa how to open an online account
+- I want to know if I can create more than one user account with the same email
+- I've got no user account, what should I do?
+- I've got no online account, I need help opening one
+- I haven't got a fucking user account, help me create one
+- ive got no user account, how can i create one ?
+- I haven't got an online account, what should I do to create one?
+- I've got no profile, how do I create one?
+- I want to know if I can register several profiles with a single email address
+- I haven't got an account, how do I register?
+- can you tell me if I can create several accounts with the same email address?
+- I want a user account, I need help opening one
+- can you tell me if i can create more than one user account with a single email?
+- I have no user account, how can I create one?
+- can I have more than one profile?
+- could you tell me if i can register more than one online account with a single email address, please?
+- I need an online acount, can I create one?
+- can you tell me if I can register several accounts with the same email address?
+- I do not have an account, help me register
+- tell me if I can create several user accounts with the same email address
+- I've got no user account, what do I have to do to create one?
+- ive got no online account, can u help me?
+- please, could u ask alexa to create a profile?
+- I haven't got an online account, how do I open one?
+- I want to create a user accoI want to create an online account, what can I do?
+- I don't have an account and I want to open one
+- I want to know if I can register more than one user account with a single email
+- tell me if I can create more than one account with the same email
+- I've got no profile, I need help creating one
+- can i create several accounts with the same email address?
+- i want an account, help me open ine
+- i havent got a profile, can i create one?
+- I have no account, what do I have to do to register?
+- i need an account, how can i create one?
+- help me create a user account
+- I've got no account, I need help creating one
+- can you tepl me if I can have several online accounts?
+- I don't have an online account, can I register?
+- please, could you tell me if i could create two user accounts with a single email?
+- can I register more than one profile with the same email address?
+- i have no online acconut, can i create one?
+- I need an online account, how can I create one?
+- I have no profile and I want to create one
+- I need an account, how do I open one?
+- I have no account, what do I have to do?
+- i need a user account, what should i do?
+- I don't have an account, what can I do to register?
+- I have no profile, what should I do to create one?
+- please, i want to know if i can create several fucking online accounts witha single email address
+- I have no online account, can you open one?
+- I've got no profile, what should I do?
+- i have no profile, help me create one
+- can you tell me if I can create several online accounts with the same email address?
+- I have no account, help me register
+- i want to know if i can register more than one profile with a single email address
+- can I create two online accounts with a single email?
+- ive got no online account, register
+- I want a user account
+- I don't have an account, help me register
+- can you tell me if I can register several profiles with a single email address?
+- tell me if I can create two profiles with the same email
+- can u ask alexa how to open a user account?
+- i dont have an onlineaccount, create one
+- can u ask alerxa to create a user account?
+- I have no account, can you open one?
+- i wanna know if i could create several online accounts with the same email address, please
+- can i own several user accounts?
+- I want to know if I can have several profiles
+- can you tell me if I can register more than one online accoun with the same email?
+- I don't have a account, I need help opening one
+- can you tell me if I can register two online accounts with the same email?
+- I haven't got a profile, what can I do?
+- ive got no account, what do i have to do?
+- can you tell me if I can create two online accounts with a single email?
+- I want an account, how can I open one?
+- I need an online account, what can I do to create one?
+- ask alexa where to create a profile
+- can i create an online account?
+
+## intent:track_order
+
+- do you mind asking Alexa how I could check my order, please?
+- I want to know if I can check my package
+- is it possible to track my orders?
+- i want to know how I can know where my shipments are
+- help me check my deliveties
+- please, can you tell me how I could check my shipments?
+- ask alexa if i can chexk my shipments
+- could u ask alexa if i can see the tsatus of my fucking purchase?
+- can i track my order?
+- tell me where to check my orders
+- can u ask alexa if i can check my shipments?
+- I want information about the status of my order
+- I want to see the status of my purcase, can you help me?
+- tell me where I can track my orders
+- can u ask alerxa if my fucking orders are on their way?
+- ask alexa where i can track my order
+- could you ask alexa how I could know where my fucking packages are, please?
+- please, could you tell me where I can check my delivery?
+- tell me how to check my delivery
+- could u ask alexa how to view the status of my purchase?
+- how can I know wherr my hsipments are?
+- I want to check my packages, can you tell me how I can do it?
+- I want to know where I can track my shipments
+- tell me how I can know where my order is
+- can you tell me if I can check my deliveries?
+- please, can you ask alexa if I can track my shipment?
+- I want to track my shipments, can you tell me where to do it?
+- i wanna know how go know where my package is
+- could u ask alexa if I could track my packages?
+- how do I check my packages?
+- track my shipments
+- please, could u ask alexa where i could track my fucking purchase?
+- please, ask Alexa how I could know where my order is
+- I want to check the status of my order, what do I have to do?
+- I wanna check my package
+- ask alexa how I can know where my shipment is
+- I need help viewing the status of my order
+- how do I track my deliveries?
+- tell me where I can track my shipment
+- tell me where to check my package
+- how do I check the status of my order?
+- tell me how I can track my shipment
+- could u ask Alexa what my order of my fucking package is, please?
+- can u ask Alexa how I could know where my packages are?
+- I want to check my packages, tell me where I can do it
+- tell me if I can check my deliveries
+- i wanna track my fucking order, could oyu tell me how yo do it, please?
+- tell me if I can check my shipments
+- I want to check my shipment, can you tell me how to do it?
+- where can I check my package?
+- can u ask Alexa how to track my deliveries?
+- can I view the status of my order?
+- i wanna know if my shipment is out for delivery
+- i wanna track my purchase, what do i have to do?
+- I want to know how to check my package
+- can u ask Alexa how I can track my eliveries?
+- I want to know where to track my package
+- tell me if I can check my delivery
+- i wanna check my order, tell me where I can do it
+- ask alexa if i can check the status of my order
+- can you tell me how to track my order?
+- help me see the status of my order
+- tell me if I can check my order
+- ask Alexa if i could track my fucking packages
+- please, can you ask alexa if I could track my fucking order?
+- I want to track my delivery
+- could u ask Alexa how to know where my shipments are, please?
+- can you ask alexa where I can check my shipments, please?
+- could you ask Alexa what my shipment of my fucking packages is?
+- Id like to track my order, tell me where I can od it, please
+- where can I check my deliveries?
+- I want to check my shipments, can you tell me how to do it?
+- I want to track my purchase, what can I do?
+- I wanna know where to check my shipments
+- can you tell me if my shipments are out for delivery?
+- tell me if my package is out for delivery
+- how to check my packages
+- I want to know if my order is out for delivery
+- I want to know how I can check my orders
+- can you tell me if my orders are out for delivery?
+- I want to track my package, can you tell me where I can do it?
+- I want to track my order, tell me where to do it
+- ik would like to check my orders, can you tell me how I can do it, please?
+- i wanna know if I can track my order
+- ask alexa to check my shipment
+- can you tell me how I can check my order?
+- id like to track my orders, can you tell me how to do it?
+- I want information about the status of my purchase
+- can u ask alexa if i can track my order?
+- can you tell me where I can track my depivery?
+- i wanna check my shipment, can you tell me how I can do it?
+- can I track my purchase?
+- tell me if i could check my shipments, please
+- could you ask Alexa how I could view the status of my purchase?
+- can u ask Alexa how to know where my delivery is?
+- how can I view the status of my order?
+- how do i know where my package is?
+- help me cfheck my shipments
+
+## intent:recover_password
+
+- I lost my account password, how can I retrieve it?
+- please, could you ask Alexa to retrieved my password?
+- I lost my password, how can I reset it?
+- i want ro reset my account password, what do i have to do?
+- I forgot my password, retrieve it, please
+- my user account was hacked, help me get it back
+- I lost my account password, can you recover it?
+- I want to recover my account password, how can I do it?
+- i forgot my account password, retrieve it
+- my account has been hacked, how do i recover it?
+- my user account was hacked, i need help getting it back
+- I can' remember my fucking password and I would like to reset it
+- someone stole my password, can u reset it?
+- my online account was hacked, and I need help getting it back
+- ask alexa how i can recover my account password, please
+- someone stole my password, what should I do to retrieve it?
+- I can't remember my account password, how do I recover it?
+- I lost my password, what should I do to recover it?
+- how to reset my account password
+- I want to recover my account password, can you help me?
+- my profile's been hacked, what should i do to get it back?
+- my online account was hacked, can you help me?
+- I lost my password, how do I reset it?
+- I want to reset my password, how can I do it?
+- my user account's been hacked
+- I can't remember my password, help me recover it
+- my profile's been hacked, what should I do?
+- i wanna retrieve my account password, what do i have to do?
+- i cant remember my account password, i need hjelp retrieving it
+- someone stole my account password, what do I have to do?
+- someone stole my password, what should I do?
+- I lost my password, I need hlp recovering it
+- someone stole my account password, can I reset it?
+- my profile was hacked, can u recover it?
+- can I reset my fucking password?
+- I'd like to retrieve my password, can you help me?
+- my online account was hacked, how can i get it back?
+- I forgot my account password, help me retrieve it
+- could u ask alexa how to retrieve my password ?
+- i forgot my password, i need help resetting it
+- someone stole my password, what do I have to do to recover it ?
+- I forgot my password, can you help me?
+- my profile's been hacked, what can I do to recover it?
+- someone stole my account password and I want to recover it
+- my user account was hacked, how do I recover it?
+- my user account's been hacked, how do i get it back?
+- my profile was hacked and I'd like to recover it
+- I forgot my account password, I need help retrieving it
+- someone stole my account password and i want to recover it
+- my profile was hacked, what can i do?
+- someone stole my password, retrieve it
+- my online account's been hacked, how do i get it back?
+- someone stole my account password, what can I do to retrieve it?
+- I want to reset my account password, what should I do?
+- someone stole my password, how do I recover it?
+- my online account's been hacked and i wanna get it back
+- can u ask alexa to retrieve my account password?
+- my user account has been hacked, what should i do to get it back?
+- I can't remember my password, can you retrieve it?
+- can u ask alexa to reset my account password?
+- my user account has been hacked, what do i have to do to get it back?
+- my profile was hacked and i want to recover it
+- I lost my password, can you reset it?
+- i cant remember my password, what can i do to recover it?
+- I forgot my account password, what should I do to recover it?
+- I forgot my accouunt password, what can I do to reset it?
+- my online account was hacked, get it back
+- I can't remember my account password, what do I have to do to retrieve it?
+- my profile has been hacked, how can i recover it?
+- I forgot my password, I need help recovering it
+- my online account was hacked, what should I do to recover it?
+- I lost my password, I need helpresetting it
+- i cant remember my password, recover it
+- i lost my account password, how can i retrieve it?
+- please, ask Alexa if I could retrieve my password
+- someone stole my password, what can i do to recover it?
+- I can't rememberf my password, how can I retrieve it?
+- I forgot my account password, what should I do to retrieve it?
+- can u ask alexa how i can reset my password?
+- I want to reset my account password, what do I have to do?
+- I lost my account password, what should I do to recover it?
+- someone stole my password, how do I retrieve it?
+- my user account was hacked, how can i recover it?
+- someone stole my password, i need help resetting it, please
+- I need help resetting my account password
+- I lost my password and I want to recover it
+- I lost my password
+- my profile was hacked, help me get it back
+- I forgot my account password, how can I retrieve it?
+- i wanna retrieve my account password, what should i do?
+- someone stole my password and id like to recover it
+- I can't remember my password, I need help recovering it
+- I can't remember my account password, what do I have to do?
+- my user account's been hacked, how can I get it back?
+- my account was hacked, can I get it back?
+- my account's been hacked, what do I have to do?
+
+## intent:set_up_shipping_address
+
+- I have no shipping address, I need help setting it up
+- how can I set up my shipping addess?
+- where can i set up my shipping address?
+- I want to set up my shipping address, what should I do?
+- how to set up my shipping address
+- can u ask alexa if i can set up my shipping address?
+- I have no shipping address, how can I set it up?
+- I have no shipping address, whjat do I haave to do to set it up?
+- i have no shipping address, help me set one up
+- i have no shipping address, i need help setting it up
+- I don't have a shipping address, how can I set one up?
+- I don't have a shipping address, I need help setting it up
+- i have no shipping address, how can i set one up?
+- I don't have a shipping address, what should I do to set it up?
+- how do I set up my shipping address?
+- I have no shipping address, can you set one up?
+- help me set up my shipping address
+- I have no shipping address, what can I do to set it up?
+- i want to set up my shipping address, what do i have to do?
+- could you ask Alexa where to set up my shipping address?
+- I have no shipping address, help me set one up
+- I don't have a shipping address, setit up
+- I have no shipping address, how do I set one up?
+- I have no shipping address , can I set one up?
+- I don't have a shipping address and I want to set it up
+- I have no shipping address and I want to set it up
+- I want to set up my shipping address
+- I don't have a shipping address, help me set one up
+- i have no shipping address, can u set it up?
+- where to set up my shipping address
+- I have no shipping address, can you set it up?
+- I have no shipping address, set one up
+- i dont have a shipping address, what can i do to set it up?
+- i dont have a shipping address, canu set it up?
+- can i set up my shipping address?
+- I have no shipping address, help me set it up
+- i dont have a shipping address, what do i have to do to set one up?
+- I don't have an shipping address, can you set it up?
+- I don't have a shipping address, set one up
+- I don't have a shipping address, I need help setting one up
+- I don't have a shipping address, what do I have to do to set it up?
+- I don't have a shipping address, can I set it up?
+- I don't have an shipping address, what can I do to set one up?
+- I don't have a shipping address, what do I have to do to set one up?
+- can u ask alexa how i could set up my fucking shipping address, please?
+- I do not have a shipping address, could you set it up, please?
+- i have no shipping address, can u set one up?
+- i have no shipping address and i want to set one up
+- can I set up my shipping address?
+- I do not have a shipping address, what do I have to do to set one up?
+- i have no shipping address, what do i have to do to set it up?
+- I have no shiping address, what do I have to do to set one up?
+- i have no shipping address, what should i do to set one up?
+- I have no shipping address, how do I set it up?
+- I don't have a shipping address, can I set one up?
+- I have no shipping address, what can I do to set one up?
+- help me set up my shipping address, please
+- I don't have a shipping address, how do I set one up?
+- I don't have a shipping address and I want to set one up
+- could u ask alexa where to set up my shipping address?
+- can you ask Alexa if I could set up my shipping address?
+- I want to set up my shipping address , what can I do?
+- i have no shipping address, how do i set it up ?
+- I don't have a shipping address, how can I set it up?
+- I have no shipping address, what should I do to set it up?
+- I don't have a shipping address, what can I do to set it up?
+- I want to set up my shipping address, can you help me?
+- can u ask alexa how to set up my shiping address?
+- I don't have a shipping address, how do I set it up?
+- i dont have a shipping address, can i set one up?
+- where do I set up my shipping address?
+- I have no shipping address, set it up
+- i wanna set up my shipping address
+- ask Alexa if I could set up my shipping address
+- i dont have a shipping address, help me set one up
+- can u ask alexa where i could set up my shipping address, please?
+- I have no shipping address and I'd like to set one up, please
+
+## intent:change_shipping_address
+
+- I want to make changes to my shipping adress
+- how can i change my shipping address?
+- my shipping address has changed, hat can Ido?
+- ask Alexa how I could modify my shipping address, please
+- can u ask alexa how i can change my shipping address?
+- ask alexa to make changes to my shipping address
+- where do I update my shipping address?
+- I want to edit my shipping address, can you help me?
+- i wanna update my shipping address, what should i do?
+- where do I change my shipping address?
+- where do I modify my shipping address?
+- can I update my shipping address?
+- where to edit my shipping address
+- please, could you ask Alexa if I could make changes to my fucking shipping address?
+- how to edit my shipping address
+- can i change my shipping address?
+- I want to modify my shipping address, what should I do?
+- can you ask Alexa if I could modify my shipping address?
+- can u ask alexa how tomake changes to my shipping addrrss?
+- where can I make changes to my shipping address?
+- I want to update my shipping address, what do I have to do?
+- can I modify my shipping address?
+- my shipping address has changed, what do I have to do?
+- can I edit my shipping address?
+- how to update my shipping address
+- can I change my shipping address?
+- could you ask Alexa where I could update my shipping address?
+- please, ask alexa to update my shipping address
+- could you ask Alexa where to make changers to my fucking shipping address?
+- I want to modify my shipping address, what can I do?
+- ask alexa where to edit my shipping address
+- I want to update my shipping address, can you help me?
+- I need help updating my shipping address
+- ask Alexa how to update my shipping address, please
+- I would like to edit my shipping address
+- how can I make changes to my shipping address?
+- can u ask alexa to update my shipping address?
+- i wanna edit my shipping address, what can i do?
+- ask alexa if i can update my shipping address
+- where do i change my shipping address?
+- where do i change my shipping address?
+- I want to update my shipping address, what should I do?
+- where can I change my shipping address?
+- I want to edit my shipping address, what do I have to do?
+- can i update my shipping address?
+- how can I edit my shipping address?
+- how do I change my shipping address?
+- I want to modify my shipping address, what do I have to do?
+- please, can you ask Alexa where I can modify my shipping address?
+- could you ask Alexa where to make changes to my shipping address, please?
+- my shipping address has changed, what should I do?
+- ask Alexa if I could update my fucking shipping address
+- help me make changes to my shipping adress
+- my shipping address has changed, can you help me?
+- ask alexa if i can edit my shipping address, please
+- how do I modify my shipping address?
+- where to update my shipping address
+- I want to change my shipping address
+- I need help modifying my shipping address
+- help me modify my shipping address
+- i wanna update my shipping address, what can i do?
+- I need help changing my shipping address
+- I need help making changes to my shipping address
+- I want to edit my shipping address, what should I do?
+- how to make changes to my shipping address
+- help me change my shipping address
+- where to modify my shipping address
+- I want to edit my shipping address, what can I do?
+- how can I update my shipping address?
+- can u ask alexa to make changes to my shipping address?
+- how to modify my shipping address
+- ask alexa if i can edit my shipping address
+- where to change my shipping address
+- i want to make changes to my shipping address
+- where can I modify my shippinmg address?
+- how do I edit my shipping address?
+- please, can you ask Alexa where I can update my shipping address?
+
+## intent:check_refund_policy
+
+- where can I see your refund policy?
+- I want to check your refund policy, what can I do?
+- where do I view your money back guarantee?
+- I want to check your money back pplicy, what do I have to do?
+- how can I see your money back policy ?
+- I want to check your money back policy, what should I do?
+- where can I view your reimbursement policy?
+- how to check your refund policy
+- I'm interested in your money back policy and I need informtaion abuot it
+- I don't know anything about your refund policy, tell me about it
+- could u askalexa ohw to check their fucking money back guarantee?
+- how can I see your reimbursement policy?
+- I want to see your money back guarantee, what do I have to do?
+- I need help viewing your money back policy
+- how can I check your refund policy?
+- I want to check your refund policy
+- i need help viewing your refund policy
+- I'm interested in your money back guarantee
+- ask alexa how to see their money back guarantee
+- please, can you ask Alexa to check their reimbursement policy?
+- I don't know anything about your reimbursement policy , tell me about it
+- I don't know anything about your money back policy
+- how do I see your reimbursement policy?
+- ask alexa how i can view their reimbursement policy
+- please, could you ask Alexa where I can view thir fucking refund policy?
+- can you showme your money back policy?
+- where to see your refund policy
+- can you show me information about your refund policy?
+- I want to see your reimbursement policy, what dl I have to do?
+- I want to see your reimbursement policy, what should I do?
+- id like to check your money back pooicy, can u help me?
+- ask alexa about their money back guarantee
+- ask Alexa where I can see their fucking money back policy
+- information about your money back policy
+- I'm interested in your money back policy, can you tell me about it?
+- I want to see your money back guarantee, what should I do?
+- can Isee your moey back policy?
+- how can I check your reimbursement policy?
+- I want to see your money back guarantee, can you help me?
+- I want to know if service fees are refundable
+- askalexa about their refund policy
+- I want to check your money back guarantee, what should I do?
+- how to check your reimbursemen policy
+- help me see your money back policy
+- i want information about your refund policy
+- I'm interested in your reimbursement policy and I need information about it
+- can u ask alexa where to check their money back policy?
+- i want to see your money back policy, can u help me?
+- ask alexa how i can view their reimbursement policy, please
+- I want to check your money back guarantee, what can I do?
+- I'm interested in your refund policy and I need information about it
+- im interested in their money back policy, ask alexa for information about it
+- I want to view your money back guarantee, what do I have to do?
+- how long do refunds take?
+- can u ask alexa how to view their refund policy?
+- can you give me information about your reimbursement policy?
+- i want to view your reimbursement policy, what should i do?
+- I want to check your money bck policy
+- could you ask Alexa if I could check their fucking money back policy?
+- I don't know anything about your money back policy, can you tell me about it, please?
+- i wanna check your refund policy, what should i do?
+- can you tell me if I get a full refund in case I cancel my ticket?
+- can you give me information about your money back guarantee?
+- I don't know anything about your rfund policy and I want information about it
+- I want to check your reimbursement policy, what should I do ?
+- information about your reimbursement policy
+- i want to see your refund policy, what can i do?
+- please, ask alexa where i could see their money back policy
+- I don't know anything about your money back policy and I need information about it
+- how do I view your refund policy ?
+- where do I check yolur money back guarantee?
+- I need help checking your money back policy
+- can you show me your reimbursement policy?
+- I don't know anything about your money back policy and I want to know about it
+- can u show me information about your money back policy?
+- can you show me your money back guaranee?
+- ask Alexa to check their money back policy, please
+- tell me if I get a full refund in case I cancel my tickets
+- can you show me your refund policy?
+
+## intent:cancel_order
+
+- help me cancel an order
+- I want to cancel a purchase, what do I have to do?
+- how do I cancel an order?
+- can I cancel an order?
+- i wanna cancel an order
+- how can i cancel a purchase?
+- ask alexa how i could cancel an order
+- ask alexa if i could cancel a purchase, please
+- i wanna cancel an order, what should i do?
+- I want to cancel a purchase, can you help me?
+- I want to cancel a purchase, what can I do?
+- i want to cancel an order, what do i have to do?
+- I want to cancel an order, what can I do?
+- how can I cancel an order?
+- can i cancel an order?
+- how to cancel a purchase
+- I want to cancel a purchase, what should I do?
+- how do I cancle a purchase?
+- I want to cancel an order, what do I have to do?
+- help me cancel a purchase
+- can u ask alexa to cancel an order?
+- can I cancel a purchase?
+- I want to cancel an order, what should I do?
+- i want to cancel a purchase, what can i do?
+- i want to cancel a purchase, can u help me?
+- can u ask alexa to cancel a fucking purchase, please?
+- I want to cancel purchase
+- ask alexa to cancel a order
+- I need hjelp cancelling a purchase
+- I want to cancel an order
+- how to cancel an order
+- I need help cancelling an order
+- I want to cancel an order, can you help me?
+- please, ask alexa how i can cancel an order
+- how can I cancel a purchase?
+- ask Alexa if I can cancel an order
